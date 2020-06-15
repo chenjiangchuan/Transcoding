@@ -104,7 +104,7 @@ if (error.code == YMTransCoderReturnTypeEncodeAudioFaile) {
 
 ## 遇到的问题
 
-这个转码Demo是在[nldzsz的ffmpeg-demo](https://github.com/nldzsz/ffmpeg-demo)基础上修改的。这也是我想把这个Demo开源的重要原因之一：反哺开发社区。
+这个转码Demo是在[nldzsz的ffmpeg-demo](https://github.com/nldzsz/ffmpeg-demo)基础上修改的。
 
 FFmpeg API使用可以参考官网的[例子](http://ffmpeg.org/doxygen/trunk/examples.html)，非常有帮助，里面的例子囊括了绝大部分API的使用方法。
 
